@@ -13,4 +13,5 @@ for item in cursor:
   print(item)
 
 cursor.close()
+
 cnx.close()
